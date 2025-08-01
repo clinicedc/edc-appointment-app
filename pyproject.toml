@@ -9,8 +9,8 @@ namespace = false
 
 [project]
 name = "edc-appointment-app"
-version = "1.0.3"
-description = "Custom AppConfig for main app of clinicedc/edc projects"
+version = "0.1.0"
+description = "Test app of clinicedc/edc projects"
 readme = {file = "README.rst", content-type = "text/x-rst"}
 authors = [
     { name = "Erik van Widenfelt", email = "ew2789@gmail.com" },
